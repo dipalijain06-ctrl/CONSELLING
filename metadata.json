@@ -1,0 +1,6 @@
+{
+  "name": "Nistaran Counselling",
+  "description": "An online counseling platform for mental health support, career guidance, relationship counseling, and life coaching, featuring quick booking and contact forms with robust server-side validation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
